@@ -1,0 +1,39 @@
+C:\Users\pasik\source\repos\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\pasik\source\repos\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\pasik\source\repos\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.CreateSelection.resources
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.Form1.resources
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\pasik\source\repos\Warehouse\Warehouse\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pasik\source\repos\Warehouse\Warehouse\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.NewProduct.resources
+C:\Users\pasik\source\repos\Warehouse\Warehouse\obj\Debug\Warehouse.CSV.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\bin\Debug\Warehouse.exe.config
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\bin\Debug\Warehouse.exe
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\bin\Debug\Warehouse.pdb
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.Authorization.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.CreateSelection.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.CSV.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.Form1.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.NewProduct.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.RegClient.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.RegSeller.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.csproj.CopyComplete
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.exe
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.pdb
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.InputCount.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.ViwerOrder.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.viewClient.resources
+\\Mac\Home\Downloads\Warehouse 4\Warehouse\obj\Debug\Warehouse.ViweOrderSeller.resources
